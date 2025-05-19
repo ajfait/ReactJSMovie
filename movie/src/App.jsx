@@ -1,3 +1,6 @@
+// https://www.youtube.com/watch?v=dCLhUialKPQ
+// https://github.com/adrianhajdin/react-movies
+
 import React, { useEffect, useState } from "react";
 import { useDebounce } from "use-debounce";
 import Search from "./components/Search";
